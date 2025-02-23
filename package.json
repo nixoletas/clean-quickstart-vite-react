@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://your-github-username.github.io/YOUR_REPO_NAME",
+  "homepage": "https://nixoletas.github.io/hello-world",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
